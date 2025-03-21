@@ -1,8 +1,16 @@
-# Augusto Giacobbo  
-📊 **Analista de Dados em formação** | 🎯 SQL | 📊 Power BI | 📈 Modelagem de Dados  
+👋 Olá, eu sou o Augusto Giacobbo!
+Atualmente, estou em transição para a área de Análise de Dados, buscando transformar informações em insights estratégicos para otimizar processos e apoiar a tomada de decisão.
 
-🔹 Em transição para a área de **Análise de Dados**  
-🔹 Experiência em vendas, CRM e e-commerce  
-🔹 Cursando **Análise de Dados na Escola DNC**  
+📊 Habilidades:
 
-📩 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/augusto-giacobbo-4148a821b/)
+Análise e visualização de dados (Power BI, Excel)
+Manipulação de dados com SQL
+Modelagem e interpretação de dados para negócios
+Tomada de decisão baseada em dados
+🎓 Formação:
+Cursando Análise de Dados na Escola DNC
+
+💼 Experiência:
+Atuei por mais de 4 anos em vendas, e-commerce e CRM, onde desenvolvi forte capacidade analítica e de interpretação de métricas para otimização de resultados.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/augusto-giacobbo-4148a821b/)
