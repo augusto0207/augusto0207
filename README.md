@@ -13,4 +13,6 @@ Cursando Análise de Dados na Escola DNC
 💼 Experiência:
 Atuei por mais de 4 anos em vendas, e-commerce e CRM, onde desenvolvi forte capacidade analítica e de interpretação de métricas para otimização de resultados.
 
+Conecte-se comigo no [LinkedIn]
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/augusto-giacobbo-4148a821b/)
