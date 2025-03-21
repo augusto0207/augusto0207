@@ -6,7 +6,7 @@ Atualmente, estou em transição para a área de Análise de Dados, buscando tra
 Análise e visualização de dados (Power BI, Excel)
 Manipulação de dados com SQL
 Modelagem e interpretação de dados para negócios
-Tomada de decisão baseada em dados
+
 
 🎓 Formação:
 Cursando Análise de Dados na Escola DNC
@@ -16,4 +16,5 @@ Atuei por mais de 4 anos em vendas, e-commerce e CRM, onde desenvolvi forte capa
 
 Conecte-se comigo no [LinkedIn]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/augusto-giacobbo-4148a821b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-giacobbo-4148a821b/)
+
