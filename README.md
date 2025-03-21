@@ -7,6 +7,7 @@ Análise e visualização de dados (Power BI, Excel)
 Manipulação de dados com SQL
 Modelagem e interpretação de dados para negócios
 Tomada de decisão baseada em dados
+
 🎓 Formação:
 Cursando Análise de Dados na Escola DNC
 
